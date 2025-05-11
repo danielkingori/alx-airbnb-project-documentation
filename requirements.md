@@ -1,6 +1,3 @@
-Here's the **markdown-formatted specification** for the three key backend features of the Airbnb Clone project:
-
----
 
 # 🏗️ Airbnb Clone – Backend Feature Specifications
 
